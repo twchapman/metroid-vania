@@ -1,0 +1,12 @@
+C:\Users\travi_000\Documents\mtrdvnia2d\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\travi_000\Documents\mtrdvnia2d\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\travi_000\Documents\mtrdvnia2d\Temp\bin\Debug\UnityEditor.dll
+C:\Users\travi_000\Documents\mtrdvnia2d\Temp\bin\Debug\UnityEngine.dll
+C:\Users\travi_000\Documents\mtrdvnia2d\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\travi_000\Documents\mtrdvnia2d\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\travi_000\Documents\mtrdvnia2d\Temp\bin\Debug\nunit.framework.dll
+C:\Users\travi_000\Documents\mtrdvnia2d\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\travi_000\Documents\mtrdvnia2d\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\travi_000\Documents\mtrdvnia2d\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\travi_000\Documents\mtrdvnia2d\obj\Debug\Assembly-CSharp.dll
+C:\Users\travi_000\Documents\mtrdvnia2d\obj\Debug\Assembly-CSharp.pdb
